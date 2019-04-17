@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lifevc.shop",
+      "sha256_cert_fingerprints": [
+        "BF:3B:D1:CF:6C:96:45:F1:A3:70:EF:E1:2E:12:E7:FC:6E:54:80:F7:F4:80:70:35:81:23:84:8E:72:4D:0A:92"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lifevc.shop",
+      "sha256_cert_fingerprints": [
+        "58:CF:EC:0E:9E:B3:5B:F2:6C:5C:70:9C:5A:A3:0E:49:02:6D:10:1A:64:6F:38:BA:18:AF:5E:AA:52:1E:53:EA"
+      ]
+    }
+  }
+]
